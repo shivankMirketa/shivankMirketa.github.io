@@ -1,0 +1,98 @@
+<html>
+<head>
+<!-- CSS only --><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous"><!-- JavaScript Bundle with Popper --><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+</head>
+<body class= "container">
+<h1> Shivank's  Journal</h1>
+<table class="table">
+<thead class="bg-warning">
+<tr><th>Date </th>
+<th>Notes</th></tr>
+</thead>
+<tbody>
+<tr>
+<td> 27-feb-2023</td>
+<td>
+<li> learned many topics like Data Security,profile ,permission set,owd ,created role hiearchy..</li>
+<li> completed modules on trailhead.</li>
+<li> had a session with Ghanshyam sir .</li>
+<li>  doubt discussed with megha mam..</li>
+<li> completed assignment.</li>
+</td>
+</tr>
+<tr>
+<tr>
+<td> 24-feb-2023</td>
+<td>
+<li>  Discussed doubt  with rahul sir related to import and export data.</li>
+<li>  learned how to update and delete data.</li>
+<li>  compeleted modules on trailhead .</li>
+<li>  Birthday Celebration.</li>
+<li> completed assignment.</li>
+</td>
+</tr>
+<tr>
+<tr>
+<td> 23-feb-2023</td>
+<td>
+<li> learned about import and export data loaders and  installed data wizard.</li>
+<li> completed lighting Experiences and Customization modules on trailhead.</li>
+<li> had a session with Ghanshyam and Pankaj. and go to know about soap and rest .</li>
+<li> learned about  lookup relation and master detail.</li>
+<li> completed assignment.</li>
+</td>
+</tr>
+<tr>
+<td> 22-feb-2023</td>
+<td>
+<li> created many objects like job Application ,candidate ,employment website ,Review etc Discused lookup relation and master detail with Megha mam
+     after the training. learned formula and validation</li>
+<li> completed data modeling and appexchange modelues on trailhead.</li>
+<li> had a session with Ghanshyam and Pankaj. and go to know about custom object and standard object.</li>
+<li> go to know about page layout and custom page layout.</li>
+<li> discussed doubt with Rahul sir </li>
+<li> completed assignment.</li>
+</td>
+</tr>
+<tr>
+<td> 21-feb-2023</td>
+<td>
+<li> i learned how to create lighting app  and  used different types of field like textarea,pixlist,date ,textlong etc and knew about what is tab and object in           salesforce.</li>
+<li> created own object like Book  and compeleted appexchange basics modules.</li>
+<li> created and learned how to create object and fields  also learned various types of fields.</li>
+<li> created global fields and tabs for our objects.</li>
+<li> interacted with megha and rahul.</li>
+<li> completed assignment.</li>
+</td>
+</tr>
+<tr>
+<td> 20-feb-2023</td>
+<td>
+<li> first created account on salesforce and  trailhead</li>
+<li> I  learned  many feature of salesforce like  how to add user and how to create object , what is object in salesforce , types of objects in salesforce , and what      is crm and cloud base technology.</li>
+<li> completed modules on Trailhead.</li>
+<li> interacted with Ashima .and had a chat with senior.</li>
+<li> compeleted appexchannge module. </li>
+</td>
+</tr>
+<tr>
+<td> 17-feb-2023</td>
+<td>
+<li> Session with Ghanshyam and Udhay sir </li>
+<li> create  repositiory on github</li>
+<li> meeting scheduled with Priyanka mam</li>
+</td>
+</tr>
+<tr>
+<td> 16-feb-2023</td>
+<td>
+<li> interaction  with Senior</li>
+<li> opening bank account and formalities of Documents</li>
+<li> learn office365</li>
+</td>
+</tr>
+
+</tbody>
+</table>
+</body>
+</html>
